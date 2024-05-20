@@ -1,5 +1,5 @@
-pip install flask
-pip install tensorflow
-pip install numpy
-pip install PIL
-pip install Gunicorn
+flask
+tensorflow
+numpy
+pillow
+Gunicorn
